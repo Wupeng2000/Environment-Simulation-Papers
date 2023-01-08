@@ -1,9 +1,9 @@
-# Environment Simulation papers
+# Environment-Simulation-papers
 
 
 Contributed by [？]().
 
-- [Environment Simulation papers](#Environment Simulation papers)
+- [Environment-Simulation-papers](#Environment-Simulation-papers)
   - [Introduction](#introduction)
   - [Overview](#Overview)
   - [Papers on Soft Robot](#papers-on-soft-robot)
