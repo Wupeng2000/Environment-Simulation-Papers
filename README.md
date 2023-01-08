@@ -17,8 +17,6 @@ Environment Simulation has achieved great success in scientific computing since 
 
 Corrections and suggestions are welcomed.
 
-A [script](./ref_convert.py) for converting bibtex to the markdown used in this repo is also provided for your convenience.
-
 ## Overview
 1. **Soft Robots Modeling: a Structured Overview**, *Costanza Armanini, Fr{\'e}d{\'e}ric Boyer, Anup Teejo Mathew, Christian Duriez, Federico Renda*, arXiv preprint arXiv:2112.03645, 2021. [[paper](https://www.researchgate.net/profile/Costanza-Armanini/publication/356841763_Soft_Robots_Modeling_a_Structured_Overview/links/637b250037878b3e87cb571d/Soft-Robots-Modeling-a-Structured-Overview.pdf)]
 
