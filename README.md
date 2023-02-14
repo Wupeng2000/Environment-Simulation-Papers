@@ -1,5 +1,5 @@
 # Environment-Simulation-papers
-
+# Papers-on-Universal-control-policies
 
 Contributed by [IDRL](https://github.com/idrl-lab).
 
@@ -10,6 +10,7 @@ Contributed by [IDRL](https://github.com/idrl-lab).
   - [Papers on Differentiable Simulation](#papers-on-differentiable-simulationparallel)
   - [Papers on Optimization & Control](#papers-on-optimization--control)
   - [Papers on Applications](#papers-on-applications)
+- [Papers-on-Universal-control-policies](#Papers-on-Universal-control-policies)
 
 ## Introduction
 
@@ -54,3 +55,17 @@ Corrections and suggestions are welcomed.
 6. **Differentiable fluids with solid coupling for learning and control**, *Tetsuya Takahashi, Junbang Liang, Yi-Ling Qiao, Ming C Lin*, **UNKNOWN_JOURNAL**, 2021. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16764/16571)]
 7. **Solver-in-the-loop: Learning from differentiable physics to interact with iterative pde-solvers**, *Kiwon Um, Br, Robert , Yun Raymond Fei, Philipp Holl, Nils Thuerey*, Advances in Neural Information Processing Systems, 2020. [[paper](https://proceedings.neurips.cc/paper/2020/file/43e4e6a6f341e00671e123714de019a8-Paper.pdf)]
 8. **Lagrangian fluid simulation with continuous convolutions**, *Benjamin Ummenhofer, Lukas Prantl, Nils Thuerey, Vladlen Koltun*, **UNKNOWN_JOURNAL**, 2019. [[paper](https://openreview.net/pdf?id=B1lDoJSYDH)]
+
+## Papers on Universal control policies
+1. **One policy to control them all: Shared modular policies for agent-agnostic control**, *Wenlong Huang, Igor Mordatch, Deepak Pathak*, **UNKNOWN_JOURNAL**, 2020. [[paper](http://proceedings.mlr.press/v119/huang20d/huang20d.pdf)][[code](https://huangwl18.github.io/modular-rl/)]
+2. **Metamorph: Learning universal controllers with transformers**, *Agrim Gupta, Linxi Fan, Surya Ganguli, Li Fei-Fei*, arXiv preprint arXiv:2203.11931, 2022. [[paper](https://arxiv.org/pdf/2203.11931.pdf)][[code](https://github.com/agrimgupta92/metamorph/blob/main/docker/Dockerfile)]
+3. **Nervenet: Learning structured policy with graph neural networks**, *Tingwu Wang, Renjie Liao, Jimmy Ba, Sanja Fidler*, **UNKNOWN_JOURNAL**, 2018. [[paper](http://www.cs.toronto.edu/~tingwuwang/master_thesis.pdf)][[code]()]
+4. **Graph networks as learnable physics engines for inference and control**, *Alvaro Sanchez-Gonzalez, Nicolas Heess, Jost Tobias Springenberg, Josh Merel, Martin Riedmiller, Raia Hadsell, Peter Battaglia*, Proceedings of the 35th International Conference on Machine Learning, PMLR 80:4470-4479, 2018. [[paper](http://proceedings.mlr.press/v80/sanchez-gonzalez18a/sanchez-gonzalez18a.pdf)][[code]()]
+5. **Task-agnostic morphology evolution**, *Donald J Hejna III, Pieter Abbeel, Lerrel Pinto*, arXiv preprint arXiv:2102.13100, 2021. [[paper](https://arxiv.org/pdf/2102.13100.pdf)][[code](https://sites.google.com/view/task-agnostic-evolution)]
+6. **My body is a cage: the role of morphology in graph-based incompatible control**, *Vitaly Kurin, Maximilian Igl, Tim Rocktschel, Wendelin Boehmer, Shimon Whiteson*, arXiv preprint arXiv:2010.01856, 2020. [[paper](https://arxiv.org/pdf/2010.01856.pdf?forcepdf)][[code](https://github.com/yobibyte/amorpheus)]
+7. **Snowflake: Scaling GNNs to high-dimensional continuous control via parameter freezing**, *Charles Blake, Vitaly Kurin, Maximilian Igl, Shimon Whiteson*, Advances in Neural Information Processing Systems, 2021. [[paper](https://proceedings.neurips.cc/paper/2021/file/c952ce98517ac529c60744ac28364b03-Paper.pdf)][[code]()]
+8. **N-LIMB: Neural Limb Optimization for Efficient Morphological Design**, *Charles Schaff, Matthew R Walter*, arXiv preprint arXiv:2207.11773, 2022. [[paper](https://arxiv.org/pdf/2207.11773.pdf)][[code](https://sites.google.com/ttic.edu/nlimb)]
+9. **Jointly learning to construct and control agents using deep reinforcement learning**, *Charles Schaff, David Yunis, Ayan Chakrabarti, Matthew R Walter*, **UNKNOWN_JOURNAL**, 2019. [[paper](https://arxiv.org/pdf/1801.01432.pdf)][[code](http://ttic.uchicago.edu/˜cbschaff/nlimb.)]
+10. **Learning to control self-assembling morphologies: a study of generalization via modularity**, *Deepak Pathak, Christopher Lu, Trevor Darrell, Phillip Isola, Alexei A Efros*, Advances in Neural Information Processing Systems, 2019. [[paper](https://proceedings.neurips.cc/paper/2019/file/c26820b8a4c1b3c2aa868d6d57e14a79-Paper.pdf)][[code]( https://pathak22.github.io/modular-assemblies/)]
+11. **Robogrammar: graph grammar for terrain-optimized robot design**, *Allan Zhao, Jie Xu, Mina Konakovi-Lukovi, Josephine Hughes, Andrew Spielberg, Daniela Rus, Wojciech Matusik*, ACM Transactions on Graphics (TOG), 2020. [[paper](https://dl.acm.org/doi/pdf/10.1145/3414685.3417831)][[code]()]
+12. **Transform2act: Learning a transform-and-control policy for efficient agent design**, *Ye Yuan, Yuda Song, Zhengyi Luo, Wen Sun, Kris Kitani*, arXiv preprint arXiv:2110.03659, 2021. [[paper](https://arxiv.org/pdf/2110.03659.pdf)][[code](https://sites.google.com/view/transform2act)]
