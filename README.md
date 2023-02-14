@@ -10,7 +10,6 @@ Contributed by [IDRL](https://github.com/idrl-lab).
   - [Papers on Optimization & Control](#papers-on-optimization--control)
   - [Papers on Applications](#papers-on-applications)
 - [Papers-on-Universal-control-policies](#Papers-on-Universal-control-policies)
-   - [Papers on Universal control policies](#Papers-on-Universal-control-policies)
 
 ## Introduction
 
@@ -55,6 +54,8 @@ Corrections and suggestions are welcomed.
 6. **Differentiable fluids with solid coupling for learning and control**, *Tetsuya Takahashi, Junbang Liang, Yi-Ling Qiao, Ming C Lin*, **UNKNOWN_JOURNAL**, 2021. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16764/16571)]
 7. **Solver-in-the-loop: Learning from differentiable physics to interact with iterative pde-solvers**, *Kiwon Um, Br, Robert , Yun Raymond Fei, Philipp Holl, Nils Thuerey*, Advances in Neural Information Processing Systems, 2020. [[paper](https://proceedings.neurips.cc/paper/2020/file/43e4e6a6f341e00671e123714de019a8-Paper.pdf)]
 8. **Lagrangian fluid simulation with continuous convolutions**, *Benjamin Ummenhofer, Lukas Prantl, Nils Thuerey, Vladlen Koltun*, **UNKNOWN_JOURNAL**, 2019. [[paper](https://openreview.net/pdf?id=B1lDoJSYDH)]
+
+# Papers-on-Universal-control-policies
 
 ## Papers on Universal control policies
 1. **One policy to control them all: Shared modular policies for agent-agnostic control**, *Wenlong Huang, Igor Mordatch, Deepak Pathak*, **UNKNOWN_JOURNAL**, 2020. [[paper](http://proceedings.mlr.press/v119/huang20d/huang20d.pdf)][[code](https://huangwl18.github.io/modular-rl/)]
