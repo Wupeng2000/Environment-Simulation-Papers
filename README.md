@@ -11,6 +11,7 @@ Contributed by [IDRL](https://github.com/idrl-lab).
   - [Papers on Optimization & Control](#papers-on-optimization--control)
   - [Papers on Applications](#papers-on-applications)
 - [Papers-on-Universal-control-policies](#Papers-on-Universal-control-policies)
+   - [Papers on Universal control policies](#Papers-on-Universal-control-policies)
 
 ## Introduction
 
