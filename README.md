@@ -1,5 +1,4 @@
 # Environment-Simulation-papers
-# Papers-on-Universal-control-policies
 
 Contributed by [IDRL](https://github.com/idrl-lab).
 
